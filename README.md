@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitakg
+- 👋 Hi, I’m Ankit Gupta
 - 👀 I’m interested in Web Developement and Product Management
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on problem solving and UI/UX experience.
