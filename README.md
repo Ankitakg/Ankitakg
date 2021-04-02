@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Gupta
-- 👀 I’m interested in Web Developement and Product Management
+- 👀 I’m interested in Web Developement and Product Experience
 - 🌱 I’m currently learning NodeJS 
 - 💞️ I’m looking to collaborate on problem solving and UI/UX experience.
 - 📫 How to reach me https://www.linkedin.com/in/ankitgt/
